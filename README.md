@@ -1,1 +1,1 @@
-Static site project created by me, Jacob Boule.
+Static site project created by Jacob Boule.
